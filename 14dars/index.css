@@ -1,0 +1,9 @@
+.f{
+    display: flex;
+    margin-top: 500px;
+    justify-content: center;
+}
+.f img{
+    width: 100px;
+    height: 100px;
+}
